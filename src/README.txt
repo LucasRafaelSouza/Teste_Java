@@ -19,4 +19,8 @@ interruptores restantes por um tempo considerável e vou a uma das duas salas re
 verificar se a lâmpada está ligada ou desligada, podendo assim infererir a qual interruptor ela está ligada.
 
 
-Link dos códigos do github
+Link do meu github:
+https://github.com/LucasRafaelSouza
+
+link do repositorio no meu github:
+https://github.com/LucasRafaelSouza/Teste_Java
